@@ -37,9 +37,12 @@ python3 -m http.server 4173
 - `index.html` — страница и подключение ресурсов.
 - `style.css` — компоненты, состояния и адаптивная вёрстка.
 - `app.js` — экраны и логика прототипа.
+- `raw-glass.css` — обновлённая тема: тёплый фотофон, тёмные стеклянные панели, лаймовые и красные кнопки.
+
+Визуальный референс: [RAW English в Figma](https://www.figma.com/design/7ZHV7P3xIULSLml37ts1Y7/Raw-english--Copy-?node-id=0-1).
 
 ## Опубликованный прототип
 
-https://speakflow-raw-english-a1020.ammfund.chatgpt.site
+https://aleksei1999.github.io/speakflow-prototype/
 
-Доступ к опубликованной версии ограничен владельцем в Sites.
+Репозиторий и GitHub Pages опубликованы с разрешения владельца.
